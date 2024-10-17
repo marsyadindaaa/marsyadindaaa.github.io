@@ -72,12 +72,26 @@ section.home {
 }
 
 .social-icons a {
-    color:black;
+    color: black;
     font-size: 24px;
     margin-right: 15px;
     transition: 0.3s;
 }
 .social-icons a:hover {
-    color:brown;
+    color: brown;
 }
 
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: black
+    background-color: bisque
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: brown;
+}
