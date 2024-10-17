@@ -50,3 +50,7 @@ section.home {
 .home-content h1 {
     font-size: 48px;
 }
+
+.home-content h1 span {
+    color: brown;
+}
