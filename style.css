@@ -54,3 +54,24 @@ section.home {
 .home-content h1 span {
     color: brown;
 }
+
+.home-content h3 {
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+.home-content h3 .highlight {
+    color:brown;
+    font-weight: bold;
+}
+
+.home-content p {
+    margin: 15px 0;
+    line-height: 1.6;
+    max-width: 400px;
+}
+
+.social-icons a {
+    color:black;
+    
+}
